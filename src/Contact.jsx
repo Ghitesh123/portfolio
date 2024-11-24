@@ -10,7 +10,7 @@ const Contact =()=>{
             
         }, {
             id:1,
-            link:"mailto:hhiteshsuryawanshi80@gmail.com",
+            link:"mailto:hhhiteshsuryawanshi80@gmail.com",
             title:"hiteshsuryawanshi80@gmail.com",
             icon:"fa-brands fa-linkedin text-3xl"
         },
